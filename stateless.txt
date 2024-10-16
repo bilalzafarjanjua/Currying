@@ -1,0 +1,7 @@
+=>I visted the food pand app where I all the avalable cities are stateless, and we can select a city, after that we can select the food type and then resturent which is 
+  alse a stateless.
+=> Adding to cart is also stateless as we can add items to the cart without login 
+=> After that to enter payment method it is necessary to login or signup to the page so this is authentication 
+=> We can not add new item to a resturent menu this is authorization 
+=> We can not delete any item of a resturent this is authorization
+=> we can not give rating to any resturnt with out login this is authentication 
